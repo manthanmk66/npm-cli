@@ -2,16 +2,17 @@
 
 "use strict";
 
-const boxen = require("boxen");
-const chalk = require("chalk");
-const inquirer = require("inquirer");
-const clear = require("clear");
-const open = require("open");
-const fs = require("fs");
-const request = require("request");
-const path = require("path");
-const ora = require("ora");
-const cliSpinners = require("cli-spinners");
+import boxen from "boxen";
+import chalk from "chalk";
+import inquirer from "inquirer";
+import clear from "clear";
+import open from "open";
+import fs from "fs";
+import request from "request";
+import path from "path";
+import ora from "ora";
+import cliSpinners from "cli-spinners";
+
 clear();
 
 const prompt = inquirer.createPromptModule();

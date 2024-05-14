@@ -1,14 +1,14 @@
 {
   "name": "manthanmk",
-  "version": "11.0.0",
-  "description": "",
-  "main": "cli.js",
-  "type": "module",
+  "version": "11.2.0",
+  "description": "Manthan npm Card ",
+  "main": "cli.mjs",
+  "type": "commonjs",
   "bin": {
-    "manthan": "cli.js"
+    "manthan": "cli.mjs"
   },
   "scripts": {
-    "test": "node cli.js",
+    "test": "node cli.mjs",
     "pub": "npm version major & npm publish"
   },
   "repository": {
@@ -23,6 +23,7 @@
     "inquirer": "^7.3.2",
     "open": "^7.0.4",
     "ora": "^5.1.0",
+    "prettyjson": "^1.2.5",
     "request": "^2.88.2"
   },
   "keywords": [
