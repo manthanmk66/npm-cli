@@ -1,6 +1,6 @@
 {
   "name": "manthanmk",
-  "version": "11.2.0",
+  "version": "11.2.1",
   "description": "Manthan npm Card ",
   "main": "cli.mjs",
   "type": "commonjs",
