@@ -1,9 +1,9 @@
 {
   "name": "manthan",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "",
   "main": "cli.js",
-  "type":"module",
+  "type": "module",
   "bin": {
     "manthan": "cli.js"
   },
