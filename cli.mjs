@@ -78,7 +78,7 @@ const data = {
     chalk.gray("https://linkedin.com/in/") +
     chalk.blue("manthan-kasle-1953b2193"),
   web: chalk.cyan("https://manthanpersonalportfolio.netlify.app/"),
-  npx: chalk.red("npx") + " " + chalk.white("manthan"),
+  npx: chalk.red("npx") + " " + chalk.white("manthanmk"),
 
   labelWork: chalk.white.bold("       Work:"),
   labelTwitter: chalk.white.bold("    Twitter:"),
